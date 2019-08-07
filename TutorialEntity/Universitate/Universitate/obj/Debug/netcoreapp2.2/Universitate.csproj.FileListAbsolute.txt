@@ -1,0 +1,11 @@
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\bin\Debug\netcoreapp2.2\Universitate.deps.json
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\bin\Debug\netcoreapp2.2\Universitate.runtimeconfig.json
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\bin\Debug\netcoreapp2.2\Universitate.runtimeconfig.dev.json
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\bin\Debug\netcoreapp2.2\Universitate.dll
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\bin\Debug\netcoreapp2.2\Universitate.pdb
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\obj\Debug\netcoreapp2.2\Universitate.csproj.CoreCompileInputs.cache
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\obj\Debug\netcoreapp2.2\Universitate.AssemblyInfoInputs.cache
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\obj\Debug\netcoreapp2.2\Universitate.AssemblyInfo.cs
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\obj\Debug\netcoreapp2.2\Universitate.dll
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\obj\Debug\netcoreapp2.2\Universitate.pdb
+C:\Users\ovidiumoldovan\Desktop\TutorialEntity\Universitate\Universitate\obj\Debug\netcoreapp2.2\Universitate.csprojAssemblyReference.cache
